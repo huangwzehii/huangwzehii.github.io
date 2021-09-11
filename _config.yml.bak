@@ -110,3 +110,8 @@ feed:
     type: atom
     path: atom.xml
     limit: 0
+backup:
+    type: git
+    repository:
+       github: git@github.com:huangwzehii/huangwzehii.github.io.git,backup
+       gitcafe: git@github.com:xxx/xxx.git,branchName
